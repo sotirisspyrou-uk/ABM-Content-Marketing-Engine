@@ -331,11 +331,6 @@ docker-compose -f docker-compose.prod.yml up -d
 - **Community**: Discord server for developer discussions
 - **Enterprise Support**: Priority support for production deployments
 
-### **Contact Information**
-- **Project Lead**: Sotiris Spyrou, CEO, VerityAI
-- **Repository**: https://github.com/overunityai/abm-content-engine
-- **Documentation**: https://docs.verityai.com/abm-engine
-- **Support Email**: support@verityai.com
 
 ---
 
